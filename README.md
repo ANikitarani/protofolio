@@ -1,1 +1,1 @@
-I have complete Home page, AboutMe with image and Form. I want to update css styling.
+I have complete Home page, AboutMe page and Form page. I want to update css styling.
